@@ -4,6 +4,6 @@ Tecnologias usadas: HTML, CSS e Javascript.
 
 Além do que foi abordado durante o evento, eu realizei pequenos ajustes para dar um toque diferencial à página e também implementei modificações para garantir a responsividade a dispositivos móveis.
 
-Confira:
+Confira: https://isadorafarache.github.io/Starbucks/
 
 ![Gif do Site](./github/Clip_Starbucks.gif)
